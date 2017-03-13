@@ -105,7 +105,7 @@ After you upgrade the site server or a server that hosts an instance of the SMS_
     - 	Application Catalog website point
 
 
-  - 	Ensure each server that hosts a site system role continues to meet all of the [prequisites for site system roles](/sccm/core/plan-design/configs/site-and-site-system-prerequisites) that run on that server. For example, you might need to reinstall BITS, WSUS, or configure specific settings for IIS.
+  - 	Ensure each server that hosts a site system role continues to meet all of the [prerequisites for site system roles](/sccm/core/plan-design/configs/site-and-site-system-prerequisites) that run on that server. For example, you might need to reinstall BITS, WSUS, or configure specific settings for IIS.
 
   After restoring any missing prerequisites, restart the server one more time to ensure services are started and operational.
 
